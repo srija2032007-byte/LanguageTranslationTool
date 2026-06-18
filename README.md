@@ -24,4 +24,4 @@ This is a simple web application that allows users to enter text and translate i
 3. Or run using VS Code Live Server
 
 ## 👨‍💻 Author
-Your Name
+SRIJANA.D
