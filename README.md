@@ -1,5 +1,3 @@
-# My CodeAlpha Project
-
 ## 📌 Project Name
 Language Translation Tool / Your project name
 
